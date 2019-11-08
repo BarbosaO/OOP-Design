@@ -1,6 +1,6 @@
-# OOP Design
+# OOP Parking Lot Design
 
 ### About
 
-- A collection of programs and applications following Object Oriented Principles and Design Patterns. This is a collective project that provides good practice of general software engineering methodologies.
+- A Program that implements the logistical, structural, and ergonomic characteristics and is-a relationships of a parking lot/garage. This implementation goes into detail taking in account numerous factors that influence the design of the parking structure. This design can and will be elaborated further or can be compressed and be used as a template for other similar designs.
 
